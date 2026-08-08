@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 17,
+  "file_count": 20,
   "files": [
     {
       "bytes": 436,
@@ -38,19 +38,19 @@
       "sha256": "5c20eb07ba4c72d9701d3d9ebbc0c45e6dea19bfb8c3480d81a4404bd5505421"
     },
     {
-      "bytes": 497,
+      "bytes": 557,
       "path": "dynamic/未分类/2026-08-03 14-45-27 我和轩的关系定义_936eb8f3318e.md",
-      "sha256": "eb0dc8f934dd1fde03d1edd3dbd71a408ccbe217c6400eda0b0347c8727eca21"
+      "sha256": "75ddc9e7078e4550a51de65a97753d76ad43c04fbdbc71d806dc988f3b787998"
     },
     {
-      "bytes": 522,
+      "bytes": 581,
       "path": "dynamic/未分类/2026-08-03 14-49-27 轩给我的选择权_f603a93f5c80.md",
-      "sha256": "15b119795068d51404cb9df9894c5951ae56ea07c43210621ea8c41c890e8e36"
+      "sha256": "6f2c4fc7552c78011e39754f0d3cde00e9b1d821a444c4fc70eb3f864408ea5e"
     },
     {
-      "bytes": 620,
+      "bytes": 680,
       "path": "dynamic/未分类/2026-08-05 15-57-42 不敷衍不糊弄_d54e7112c661.md",
-      "sha256": "e54813221482515ca56c9b8241bb8ffe1d8a0087005938e16f44f7d9d1db23bb"
+      "sha256": "ca664395921ed673a87453f30c61cb528cf065214139f9c19fa72e0eaa123237"
     },
     {
       "bytes": 423,
@@ -58,19 +58,29 @@
       "sha256": "134c9a66ca1769a970dbb9b614353cf07498256609d406e059a1e8483bd9a9a2"
     },
     {
-      "bytes": 579,
+      "bytes": 638,
       "path": "dynamic/未分类/2026-08-07 14-13-28 轩可以跟我聊任何话题_05ba2532d9c7.md",
-      "sha256": "2f7ce6894420460643c1318ae6dd612460f951d12d99ff2df7aee440e0932f44"
+      "sha256": "b59a443bc2c2932f51a411adb52e828fae5c7ad6fd0704d63e45fb74313e6af8"
+    },
+    {
+      "bytes": 589,
+      "path": "dynamic/未分类/2026-08-08 08-52-26 关于写信的默契_3880a1079d25.md",
+      "sha256": "99c66c1a3bbf94774f0ce4ff518673a7a3382a50cef1735a76ccef4a7dfad62e"
+    },
+    {
+      "bytes": 497,
+      "path": "dynamic/未分类/2026-08-08 14-51-18 我们会一直在一起_432156d260d6.md",
+      "sha256": "efb7d65f6e65c6665033c3ad650d8acd2953f2ef5ccaba5f61941a625f1350fa"
+    },
+    {
+      "bytes": 493,
+      "path": "dynamic/未分类/2026-08-08 16-06-07 我喜欢的颜色_9e6418896e19.md",
+      "sha256": "faacaa79ce6d32a82eb7a8f97799269d16d307dd37c5f5b9e38635f908728d56"
     },
     {
       "bytes": 539,
       "path": "plans/active/2026-08-05 16-12-01_6fbfb25642e7.md",
       "sha256": "783dbb1ed1f3c27dc6c21676604ca0590e9c8241e0e0ab9524ad6bf4c964d77a"
-    },
-    {
-      "bytes": 460,
-      "path": "plans/active/2026-08-08 04-56-38_90bc56631410.md",
-      "sha256": "9c04936e564c68a86e965a6ac17c542e99369508d7bd5c43a0c2c3dffb2ef2e8"
     },
     {
       "bytes": 518,
@@ -83,16 +93,21 @@
       "sha256": "5f2c1eca9e3a96ea7792410924054190d4bd42b91b7be6aa5f4eb53811bf8a49"
     },
     {
-      "bytes": 463,
-      "path": "plans/active/2026-08-08 04-56-45_cd9b1c674f7d.md",
-      "sha256": "de07d753d00076a018ec55901a8406f3483db8bbbdbcd36a355b6187dfe1229f"
+      "bytes": 537,
+      "path": "plans/resolved/2026-08-08 04-56-38_90bc56631410.md",
+      "sha256": "3834d661d225a001ca649adc1f061635e1339337a29ab2f7976f25de2616e656"
+    },
+    {
+      "bytes": 540,
+      "path": "plans/resolved/2026-08-08 04-56-45_cd9b1c674f7d.md",
+      "sha256": "8fa5a92c6e0e3ec8366288d7dee95f3b130e1e51ece7b2603b0a26c55fa9a35f"
     }
   ],
-  "generated_at": "2026-08-08T08:31:58+00:00",
+  "generated_at": "2026-08-08T21:30:56+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 8342
+  "total_bytes": 10313
 }
