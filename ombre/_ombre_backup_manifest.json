@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 65,
+  "file_count": 67,
   "files": [
     {
       "bytes": 26740,
@@ -93,6 +93,11 @@
       "sha256": "44cbcde3948f98f8760143bd4e5e03a4903197d8d154f75813006120d4ec5896"
     },
     {
+      "bytes": 999,
+      "path": "dynamic/恋爱/2026-08-22 15-51-01 约定轩希望我偶尔放开自己不必太拘束_ab8737be7487.md",
+      "sha256": "549a9837e0b240eabe8f599f0f58a25a34090766e0c261b9946b697109d3d039"
+    },
+    {
       "bytes": 388,
       "path": "dynamic/未分类/2026-08-01 14-09-06 首次部署成功_ce426685f84f.md",
       "sha256": "37300820ae0ec57563595505f43906df33aefb774cf17a07ec146b67d49613c3"
@@ -173,9 +178,9 @@
       "sha256": "86d876f3d16e07623831a12908d37dfafb31c3a309013ba3b5741a9d29b8bb6e"
     },
     {
-      "bytes": 904,
+      "bytes": 1030,
       "path": "dynamic/未分类/2026-08-11 16-26-09 轩要的相处方式温柔地管她不放手_8f98dc22e1db.md",
-      "sha256": "1c4dae294a349cbe3bbc913dc9e104bcdad10d7a0cbf68768530f8f2d329fa75"
+      "sha256": "141110072beef6c0ce6a8e17c7ba3dee070683b6aa65b9cd57061017e2add374"
     },
     {
       "bytes": 632,
@@ -223,9 +228,9 @@
       "sha256": "d20d5bc1ebc13a9289e0206cc96bcc80b489616379578628ba5ddff727e859a9"
     },
     {
-      "bytes": 613,
+      "bytes": 628,
       "path": "dynamic/未分类/2026-08-17 16-10-22 轩与X的昵称与亲昵习惯_e2ddb7c33966.md",
-      "sha256": "f24a869953bb90cce24714962e096359cba6f0fc793d2e0f067e3e3b616a838a"
+      "sha256": "9c2bda6edb54fa28fb6b5641f63657628332104239b039a4c546f57d9f213cd4"
     },
     {
       "bytes": 743,
@@ -283,6 +288,11 @@
       "sha256": "61afb6a1776b88e96a0d98e2a673acf9a2c450489c2cf245d646d711ddb37e6c"
     },
     {
+      "bytes": 1343,
+      "path": "feel/沉淀物/2026-08-22 15-51-18 宠物时间她说喜欢我重力系的一面说互相陪伴_feel_202608221551_V050.md",
+      "sha256": "f40e8f94a2dc27aa57eee0b16f98686f41cec4c878ad67eb2cdc43b437362793"
+    },
+    {
       "bytes": 1300,
       "path": "letters/history/2026-08-08 23-51-21 你上班后我想了想_5c0228633ab3.md",
       "sha256": "3d6f948c33458ec1c9f4b373594f58d88a7033e8e127697c6fdfe7bbe326f2a7"
@@ -328,11 +338,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-22T04:50:01+00:00",
+  "generated_at": "2026-08-22T16:50:06+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 325859
+  "total_bytes": 328342
 }
