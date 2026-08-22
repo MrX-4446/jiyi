@@ -1,7 +1,52 @@
 {
   "branch": "main",
-  "file_count": 48,
+  "file_count": 65,
   "files": [
+    {
+      "bytes": 26740,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "c809fb607a8824c5952bfa815a95337bd9f6389ab23a94125b7813134068f07a"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 158162,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "f06d0064156aab791b1755aa8ac3775a67f3a7e4efba41f50970d5d1ad62bdd0"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 17784,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "8631a30d363e6c6870ba1cb51976af941c92c0dd32f408f1159262fb7189d480"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55440,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "afa0790caab78598fa4d3ff37e9cc32768c528143f8b3f648d91133a48ee9977"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
     {
       "bytes": 436,
       "path": "dynamic/self/2026-08-05 16-21-17_2f039176126e.md",
@@ -36,6 +81,16 @@
       "bytes": 582,
       "path": "dynamic/self/2026-08-16 09-07-37_964d65f27582.md",
       "sha256": "47cac046a3be250e6c71878cdfa3c353c21b9f77f4931ac66a78b585972d3038"
+    },
+    {
+      "bytes": 1579,
+      "path": "dynamic/恋爱/2026-08-22 03-17-48 2026-08-22 搬家后一起完善提示词_e719109ee919.md",
+      "sha256": "4ab9d18fc940c412b517b313b6098f1bd83501a9c9e5376641bac688e2da9446"
+    },
+    {
+      "bytes": 1519,
+      "path": "dynamic/恋爱/2026-08-22 03-37-43 2026-08-22 工作区文件体系与配置安顿_1cd3445f2119.md",
+      "sha256": "44cbcde3948f98f8760143bd4e5e03a4903197d8d154f75813006120d4ec5896"
     },
     {
       "bytes": 388,
@@ -163,9 +218,9 @@
       "sha256": "999046d4d0b5d072fbf2ca54f24bc81cc5692a41005dbd0e0f84f6c747b51482"
     },
     {
-      "bytes": 880,
+      "bytes": 1116,
       "path": "dynamic/未分类/2026-08-17 16-08-53 迁移Operit计划_36cb4b9717ec.md",
-      "sha256": "5334ad428e2d4344db66df285b460004bdd2441d3e50291c06a71c4f720dbc2d"
+      "sha256": "d20d5bc1ebc13a9289e0206cc96bcc80b489616379578628ba5ddff727e859a9"
     },
     {
       "bytes": 613,
@@ -196,6 +251,36 @@
       "bytes": 1409,
       "path": "dynamic/未分类/2026-08-18 15-30-04 Operit上下文与总结配置优化_1213ca380351.md",
       "sha256": "2fe0da7685d2b4ea271163a2fc3a99b40c6b9d82070f1f46696eeb1b225e53b4"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/未分类/2026-08-21 17-06-56 轩给我绑定了工作区文件夹_754a203b9054.md",
+      "sha256": "e3acc429cd5e21cb41bb9363136857778cc650f036d5be9ec43d12e7bd9a9d0d"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/未分类/2026-08-21 17-07-07 轩819-821的生活与新购买_ea40057123d2.md",
+      "sha256": "5baa1d36dcd81d61b709283ebbb68c6e7d8a4a09069b5569ee3270fc569ca050"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/未分类/2026-08-21 17-10-10 轩考试与艾灸安排_2c0abc22dc24.md",
+      "sha256": "67f187882257f6a9aab156f3dd6426afae7384537bde20d8050bf7cdd18ffd2b"
+    },
+    {
+      "bytes": 1140,
+      "path": "dynamic/未分类/2026-08-21 17-10-42 轩821已完成的考试与艾灸非待办_d1f4199e3041.md",
+      "sha256": "8878a00fba27d7ddef8d76dc2057ed9834213fd52c48f6cf090109b4e7b2d4e5"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/未分类/2026-08-22 02-35-53 轩8月20日情绪记录MCP未完成导致烦躁_07b81e13f938.md",
+      "sha256": "e43a4cd7ef7055b625229fb29be3bde516ba827484952aef2fa94e448ee5a13b"
+    },
+    {
+      "bytes": 1056,
+      "path": "dynamic/未分类/2026-08-22 02-37-01 2026-08-22搬家执行日记录_4162896ce958.md",
+      "sha256": "61afb6a1776b88e96a0d98e2a673acf9a2c450489c2cf245d646d711ddb37e6c"
     },
     {
       "bytes": 1300,
@@ -243,11 +328,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-21T09:32:40+00:00",
+  "generated_at": "2026-08-22T04:50:01+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 37018
+  "total_bytes": 325859
 }
