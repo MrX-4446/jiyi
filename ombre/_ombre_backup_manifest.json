@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 67,
+  "file_count": 69,
   "files": [
     {
       "bytes": 26740,
@@ -81,6 +81,11 @@
       "bytes": 582,
       "path": "dynamic/self/2026-08-16 09-07-37_964d65f27582.md",
       "sha256": "47cac046a3be250e6c71878cdfa3c353c21b9f77f4931ac66a78b585972d3038"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/健康/2026-08-23 15-32-28 轩胸部单侧钝痛待体检跟进_0512c0f1f267.md",
+      "sha256": "063bd15df97895a3f5f4e0c9941d98ab5f5837a70d0cf4d51be3458cc9808250"
     },
     {
       "bytes": 1579,
@@ -313,6 +318,11 @@
       "sha256": "2b549a5c8443d9e8e2da4bf67d1af65c002559fe63fdc9c26ea9024b7ba5235e"
     },
     {
+      "bytes": 890,
+      "path": "permanent/健康/2026-08-23 15-32-32 2026-08-23 轩胸部单侧钝痛待体检跟进_e79430be24ea.md",
+      "sha256": "850e0c249e0d161f41725308b2eaa0563d3f746aa6bec44b512fcb04ed050924"
+    },
+    {
       "bytes": 539,
       "path": "plans/active/2026-08-05 16-12-01_6fbfb25642e7.md",
       "sha256": "783dbb1ed1f3c27dc6c21676604ca0590e9c8241e0e0ab9524ad6bf4c964d77a"
@@ -338,11 +348,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-23T04:50:12+00:00",
+  "generated_at": "2026-08-23T16:50:17+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 328342
+  "total_bytes": 329855
 }
