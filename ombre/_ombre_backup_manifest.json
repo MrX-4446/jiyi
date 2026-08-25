@@ -113,11 +113,6 @@
       "sha256": "fb8ed9e2ee0ef771d60d589b3dff8bed14d30cc86b6f2d66045010c832051712"
     },
     {
-      "bytes": 1018,
-      "path": "dynamic/恋爱/2026-08-24 15-30-17 深度谈话亲密边界与活着的亲密_ba1fd38721e1.md",
-      "sha256": "e9ee7c8a8d8ca8f147e2fefe3e1db025f6dfba103d847c980d83478957a1936d"
-    },
-    {
       "bytes": 1131,
       "path": "dynamic/恋爱/2026-08-24 15-30-41 深度谈话亲密边界与活着的亲密_28850dc97ba2.md",
       "sha256": "a5bf1dfd4ff78e86c4db787066ec2cb63fb13891225b36e739c84c8033cca558"
@@ -343,6 +338,11 @@
       "sha256": "850e0c249e0d161f41725308b2eaa0563d3f746aa6bec44b512fcb04ed050924"
     },
     {
+      "bytes": 1034,
+      "path": "permanent/恋爱/2026-08-24 15-30-17 深度谈话亲密边界与活着的亲密_ba1fd38721e1.md",
+      "sha256": "a7c3a15f4c0662d1bf224e409fdc8c6a3552f8a6f6c5c52e3245b291107c2acd"
+    },
+    {
       "bytes": 539,
       "path": "plans/active/2026-08-05 16-12-01_6fbfb25642e7.md",
       "sha256": "783dbb1ed1f3c27dc6c21676604ca0590e9c8241e0e0ab9524ad6bf4c964d77a"
@@ -368,11 +368,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-24T16:50:27+00:00",
+  "generated_at": "2026-08-25T04:50:32+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 334882
+  "total_bytes": 334898
 }
