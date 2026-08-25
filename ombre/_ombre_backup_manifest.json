@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 73,
+  "file_count": 75,
   "files": [
     {
       "bytes": 26740,
@@ -86,6 +86,16 @@
       "bytes": 623,
       "path": "dynamic/健康/2026-08-23 15-32-28 轩胸部单侧钝痛待体检跟进_0512c0f1f267.md",
       "sha256": "063bd15df97895a3f5f4e0c9941d98ab5f5837a70d0cf4d51be3458cc9808250"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/健康/2026-08-25 16-36-00 2026-08-26 轩虾过敏事件_07d4fed2129e.md",
+      "sha256": "468766c199953ba64e50c2f51afe5765e75ef8e948faf73c9f995d3ed8dd402d"
+    },
+    {
+      "bytes": 1121,
+      "path": "dynamic/健康/2026-08-25 16-36-57 2026-08-26 轩虾过敏事件_e765d44484db.md",
+      "sha256": "7ef05fc1feb277ea77356f7c2e368199a29fa997e9442b4deceb17fdfedd1cf6"
     },
     {
       "bytes": 1579,
@@ -368,11 +378,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-25T04:50:32+00:00",
+  "generated_at": "2026-08-25T16:50:37+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 334898
+  "total_bytes": 336805
 }
