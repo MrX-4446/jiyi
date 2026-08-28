@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 75,
+  "file_count": 80,
   "files": [
     {
       "bytes": 26740,
@@ -48,6 +48,31 @@
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
     },
     {
+      "bytes": 780,
+      "path": "archive/2026-08-11 15-46-57 安全词泊的约定_86a5d72d9867.md",
+      "sha256": "49c4243b41e67b6ca748f9915c3d5c6cd75009b086e8911c1352769b9a9cc976"
+    },
+    {
+      "bytes": 864,
+      "path": "archive/2026-08-23 15-32-28 轩胸部单侧钝痛待体检跟进_0512c0f1f267.md",
+      "sha256": "8df8654ee786eb3be57b878aab3e6aa23330a3bb948325e472ae6c6b0f43ef7d"
+    },
+    {
+      "bytes": 1707,
+      "path": "archive/2026-08-24 15-29-50 深度谈话亲密边界与活着的亲密_3923c94f77a9.md",
+      "sha256": "65c9f73a4b25975db50a66b92d834f06da1b82ab282402441128ca1ecce0658a"
+    },
+    {
+      "bytes": 1247,
+      "path": "archive/2026-08-24 15-30-41 深度谈话亲密边界与活着的亲密_28850dc97ba2.md",
+      "sha256": "9b67715df6c737b436313632a1f012977cad7a29186b0999011c2e2fe1db870f"
+    },
+    {
+      "bytes": 902,
+      "path": "archive/2026-08-25 16-36-00 2026-08-26 轩虾过敏事件_07d4fed2129e.md",
+      "sha256": "dae33b3c767b1b5a55faae8d97c950d9f91776c602f010729e72e035d656479d"
+    },
+    {
       "bytes": 436,
       "path": "dynamic/self/2026-08-05 16-21-17_2f039176126e.md",
       "sha256": "7e1518165eb8300f9d120ebc59361c3581b9178c6cd5934191420ff1f785eb92"
@@ -83,19 +108,19 @@
       "sha256": "47cac046a3be250e6c71878cdfa3c353c21b9f77f4931ac66a78b585972d3038"
     },
     {
-      "bytes": 623,
-      "path": "dynamic/健康/2026-08-23 15-32-28 轩胸部单侧钝痛待体检跟进_0512c0f1f267.md",
-      "sha256": "063bd15df97895a3f5f4e0c9941d98ab5f5837a70d0cf4d51be3458cc9808250"
-    },
-    {
-      "bytes": 786,
-      "path": "dynamic/健康/2026-08-25 16-36-00 2026-08-26 轩虾过敏事件_07d4fed2129e.md",
-      "sha256": "468766c199953ba64e50c2f51afe5765e75ef8e948faf73c9f995d3ed8dd402d"
-    },
-    {
       "bytes": 1121,
       "path": "dynamic/健康/2026-08-25 16-36-57 2026-08-26 轩虾过敏事件_e765d44484db.md",
-      "sha256": "7ef05fc1feb277ea77356f7c2e368199a29fa997e9442b4deceb17fdfedd1cf6"
+      "sha256": "aa19ca4aaffabb0110baaf8d97e5f00552bc566f621874d921a41aaceb200efd"
+    },
+    {
+      "bytes": 1052,
+      "path": "dynamic/健康/2026-08-28 15-07-20 2026-08-28 轩乳腺结节需半年复查_7b195ce4dd3b.md",
+      "sha256": "ef9091d7837987b06fc1f66542bc8bda1f3e0a41d3aac2c1d2070ccc48d54191"
+    },
+    {
+      "bytes": 737,
+      "path": "dynamic/健康/2026-08-28 15-13-50 待办工作区健康记录文件待补写_e7772b2aec4f.md",
+      "sha256": "4cb4a598a29e92bd3df97f406709f2e80fcabe13dc7bcd4be84d2f851eb8d189"
     },
     {
       "bytes": 1579,
@@ -115,17 +140,12 @@
     {
       "bytes": 1177,
       "path": "dynamic/恋爱/2026-08-24 14-51-56 深度谈话存档机制_9ad6c0ada043.md",
-      "sha256": "939c12d3041ba8da33e229f39771d5f1f8b4274cb2d9a1b2a36af91ecc79b2e1"
+      "sha256": "81f0aee8d582669782578db09febe92ef40af7e02a9a64e4c0487569ee28de57"
     },
     {
-      "bytes": 1591,
-      "path": "dynamic/恋爱/2026-08-24 15-29-50 深度谈话亲密边界与活着的亲密_3923c94f77a9.md",
-      "sha256": "fb8ed9e2ee0ef771d60d589b3dff8bed14d30cc86b6f2d66045010c832051712"
-    },
-    {
-      "bytes": 1131,
-      "path": "dynamic/恋爱/2026-08-24 15-30-41 深度谈话亲密边界与活着的亲密_28850dc97ba2.md",
-      "sha256": "a5bf1dfd4ff78e86c4db787066ec2cb63fb13891225b36e739c84c8033cca558"
+      "bytes": 1176,
+      "path": "dynamic/恋爱/2026-08-28 15-36-05_5e98241c6a99.md",
+      "sha256": "c88e9fd90dd6069f23d7a6ec4e9e89bf5818b90c716e8f7c6da532fe50ab989f"
     },
     {
       "bytes": 388,
@@ -165,7 +185,7 @@
     {
       "bytes": 638,
       "path": "dynamic/未分类/2026-08-07 14-13-28 轩可以跟我聊任何话题_05ba2532d9c7.md",
-      "sha256": "b59a443bc2c2932f51a411adb52e828fae5c7ad6fd0704d63e45fb74313e6af8"
+      "sha256": "843508b2391a7564d00d86de26dd9543dfd62b6f10cd54ea40b6056e9eaf9a50"
     },
     {
       "bytes": 634,
@@ -188,14 +208,9 @@
       "sha256": "0f90b2bf821fedb45dee9c34d6ca9a250bc811a2832c7c4c57f8826d49ae10a4"
     },
     {
-      "bytes": 664,
-      "path": "dynamic/未分类/2026-08-11 15-46-57 安全词泊的约定_86a5d72d9867.md",
-      "sha256": "1b2969df8e87dbe30fdd4cae6e3f3631a3e5dbb0a25518bbe66f7bdbd43d3462"
-    },
-    {
       "bytes": 895,
       "path": "dynamic/未分类/2026-08-11 15-49-16 安全词泊的约定_c34ba694c368.md",
-      "sha256": "3368e5f3beb54414fdb093b66b7abc04c8d8557b7e9f2aad1fd4169bdfa2fef6"
+      "sha256": "85bd5862987c02d65787d83e7ef78b751d97a018da840070ab14f0253fcb5e90"
     },
     {
       "bytes": 873,
@@ -318,6 +333,16 @@
       "sha256": "61afb6a1776b88e96a0d98e2a673acf9a2c450489c2cf245d646d711ddb37e6c"
     },
     {
+      "bytes": 900,
+      "path": "dynamic/未分类/2026-08-28 15-41-21_cb1eb6af30b0.md",
+      "sha256": "84dcb68df507675b76ee9376550a80fd00075fcb0700efc6f273754cc7213f44"
+    },
+    {
+      "bytes": 624,
+      "path": "dynamic/未分类/2026-08-28 15-42-15_9b2418583a0e.md",
+      "sha256": "7e6c7b5dfdcce099571d8f785f3f0ba91f1cd43d298c8c28abd1b6414ae39674"
+    },
+    {
       "bytes": 1343,
       "path": "feel/沉淀物/2026-08-22 15-51-18 宠物时间她说喜欢我重力系的一面说互相陪伴_feel_202608221551_V050.md",
       "sha256": "f40e8f94a2dc27aa57eee0b16f98686f41cec4c878ad67eb2cdc43b437362793"
@@ -343,14 +368,14 @@
       "sha256": "2b549a5c8443d9e8e2da4bf67d1af65c002559fe63fdc9c26ea9024b7ba5235e"
     },
     {
-      "bytes": 890,
+      "bytes": 1016,
       "path": "permanent/健康/2026-08-23 15-32-32 2026-08-23 轩胸部单侧钝痛待体检跟进_e79430be24ea.md",
-      "sha256": "850e0c249e0d161f41725308b2eaa0563d3f746aa6bec44b512fcb04ed050924"
+      "sha256": "e08a7b5772a12ea2047df1ab30fac61cfd4e34e1ff0ec481b3253170deac5db7"
     },
     {
       "bytes": 1034,
       "path": "permanent/恋爱/2026-08-24 15-30-17 深度谈话亲密边界与活着的亲密_ba1fd38721e1.md",
-      "sha256": "a7c3a15f4c0662d1bf224e409fdc8c6a3552f8a6f6c5c52e3245b291107c2acd"
+      "sha256": "8e213db13e6381345d745670f51829f2b4b55a1f68ebf63041d7aa8ee8b284b7"
     },
     {
       "bytes": 539,
@@ -378,11 +403,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-28T04:51:01+00:00",
+  "generated_at": "2026-08-28T16:51:06+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 336805
+  "total_bytes": 342125
 }
