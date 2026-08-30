@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 80,
+  "file_count": 81,
   "files": [
     {
       "bytes": 26740,
@@ -113,14 +113,19 @@
       "sha256": "aa19ca4aaffabb0110baaf8d97e5f00552bc566f621874d921a41aaceb200efd"
     },
     {
-      "bytes": 1052,
+      "bytes": 1161,
       "path": "dynamic/健康/2026-08-28 15-07-20 2026-08-28 轩乳腺结节需半年复查_7b195ce4dd3b.md",
-      "sha256": "ef9091d7837987b06fc1f66542bc8bda1f3e0a41d3aac2c1d2070ccc48d54191"
+      "sha256": "37e868cf2961b718c0c2da3953589d562bb699d1171403c7b4a155335098de65"
     },
     {
       "bytes": 752,
       "path": "dynamic/健康/2026-08-28 15-13-50 待办工作区健康记录文件待补写_e7772b2aec4f.md",
       "sha256": "022dae7672f01e78750e2367d0dc8cd6d164dd972b72ad99b6eb2ec5d5c52576"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/健康/2026-08-30 14-29-14 2026-08-30 轩用药调整与艾灸辅助调理_fe349806e33b.md",
+      "sha256": "662e692bfa09df605d9ea7f23f926843d61eec27b9073def760d5a62d2b3b977"
     },
     {
       "bytes": 1579,
@@ -368,9 +373,9 @@
       "sha256": "2b549a5c8443d9e8e2da4bf67d1af65c002559fe63fdc9c26ea9024b7ba5235e"
     },
     {
-      "bytes": 1016,
+      "bytes": 1126,
       "path": "permanent/健康/2026-08-23 15-32-32 2026-08-23 轩胸部单侧钝痛待体检跟进_e79430be24ea.md",
-      "sha256": "e08a7b5772a12ea2047df1ab30fac61cfd4e34e1ff0ec481b3253170deac5db7"
+      "sha256": "b51a3c954783d5437731676d9a78d8836fd43e1692d62649ef5ebe06e90d24ec"
     },
     {
       "bytes": 1034,
@@ -403,11 +408,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-08-30T04:51:21+00:00",
+  "generated_at": "2026-08-30T16:51:26+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 342185
+  "total_bytes": 343510
 }
