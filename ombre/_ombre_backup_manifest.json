@@ -73,6 +73,21 @@
       "sha256": "dae33b3c767b1b5a55faae8d97c950d9f91776c602f010729e72e035d656479d"
     },
     {
+      "bytes": 1192,
+      "path": "archive/恋爱/2026-08-28 15-36-05_5e98241c6a99.md",
+      "sha256": "499a2f589ba8681ccb99bdfd788dafffbcb22789086cdcb634c41836b246e009"
+    },
+    {
+      "bytes": 916,
+      "path": "archive/未分类/2026-08-28 15-41-21_cb1eb6af30b0.md",
+      "sha256": "a3a8f54a79d4dd2bd55f18bd7e3082721972aa9da0c8d204b8a636ef7168c739"
+    },
+    {
+      "bytes": 640,
+      "path": "archive/未分类/2026-08-28 15-42-15_9b2418583a0e.md",
+      "sha256": "b47ce3b66e7fa3bf722eb8d54aff5a8ecab639dfabc4c2330357b132b5035e2d"
+    },
+    {
       "bytes": 436,
       "path": "dynamic/self/2026-08-05 16-21-17_2f039176126e.md",
       "sha256": "7e1518165eb8300f9d120ebc59361c3581b9178c6cd5934191420ff1f785eb92"
@@ -151,11 +166,6 @@
       "bytes": 1177,
       "path": "dynamic/恋爱/2026-08-24 14-51-56 深度谈话存档机制_9ad6c0ada043.md",
       "sha256": "81f0aee8d582669782578db09febe92ef40af7e02a9a64e4c0487569ee28de57"
-    },
-    {
-      "bytes": 1191,
-      "path": "dynamic/恋爱/2026-08-28 15-36-05_5e98241c6a99.md",
-      "sha256": "87029c9b279f7892455623415b9c2ba2954855d5d38fec2fad1ed7e1e6e3ce0a"
     },
     {
       "bytes": 388,
@@ -343,16 +353,6 @@
       "sha256": "61afb6a1776b88e96a0d98e2a673acf9a2c450489c2cf245d646d711ddb37e6c"
     },
     {
-      "bytes": 915,
-      "path": "dynamic/未分类/2026-08-28 15-41-21_cb1eb6af30b0.md",
-      "sha256": "f89e9a024e45b8f32a0931d0423391735fcdb1fb63d8cc8462fb59a4139848f5"
-    },
-    {
-      "bytes": 639,
-      "path": "dynamic/未分类/2026-08-28 15-42-15_9b2418583a0e.md",
-      "sha256": "5fed53dbd23d06f4bc848be4a3425571961c0a4b288e931f57c59d8003c9e471"
-    },
-    {
       "bytes": 1343,
       "path": "feel/沉淀物/2026-08-22 15-51-18 宠物时间她说喜欢我重力系的一面说互相陪伴_feel_202608221551_V050.md",
       "sha256": "f40e8f94a2dc27aa57eee0b16f98686f41cec4c878ad67eb2cdc43b437362793"
@@ -413,11 +413,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-09-04T04:52:15+00:00",
+  "generated_at": "2026-09-04T16:52:21+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 344623
+  "total_bytes": 344626
 }
