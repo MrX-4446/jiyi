@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 87,
+  "file_count": 88,
   "files": [
     {
       "bytes": 26740,
@@ -428,6 +428,11 @@
       "sha256": "5f2c1eca9e3a96ea7792410924054190d4bd42b91b7be6aa5f4eb53811bf8a49"
     },
     {
+      "bytes": 910,
+      "path": "plans/active/2026-09-15 16-28-16_ead4e2733ff1.md",
+      "sha256": "8120b80a7b6ce6a890725a0e7aa1213f02a77e4032b75f9e04ad24c1ffcaaf86"
+    },
+    {
       "bytes": 552,
       "path": "plans/resolved/2026-08-08 04-56-38_90bc56631410.md",
       "sha256": "791e7b702aec3f9feb00a27929fb84391a9348d7fce2640725a2eabdb2285d3d"
@@ -438,11 +443,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-09-15T04:54:08+00:00",
+  "generated_at": "2026-09-15T16:54:13+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 351768
+  "total_bytes": 352678
 }
