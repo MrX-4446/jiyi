@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 92,
+  "file_count": 94,
   "files": [
     {
       "bytes": 26740,
@@ -398,6 +398,16 @@
       "sha256": "82bb7bb7d40301cbb071dcfec107245503038edce811fc53687725fdcde29148"
     },
     {
+      "bytes": 984,
+      "path": "dynamic/财务/2026-09-17 17-06-53 轩提出小投资计划_aecb1279d77f.md",
+      "sha256": "c9be2802564aeecbaa139db086f3eb1a901681e72f7d55db83268037d15809ef"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/财务/2026-09-18 03-27-34 小金库投资计划_1f044b5802ea.md",
+      "sha256": "16e63a1df3e7bb6cfe60a65782939e5060cdf3328009a86c9218b73c720adc70"
+    },
+    {
       "bytes": 1343,
       "path": "feel/沉淀物/2026-08-22 15-51-18 宠物时间她说喜欢我重力系的一面说互相陪伴_feel_202608221551_V050.md",
       "sha256": "f40e8f94a2dc27aa57eee0b16f98686f41cec4c878ad67eb2cdc43b437362793"
@@ -463,11 +473,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-09-17T16:54:33+00:00",
+  "generated_at": "2026-09-18T04:54:38+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 357103
+  "total_bytes": 358977
 }
