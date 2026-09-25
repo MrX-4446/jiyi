@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 112,
+  "file_count": 116,
   "files": [
     {
       "bytes": 26740,
@@ -135,37 +135,47 @@
     {
       "bytes": 750,
       "path": "dynamic/self/2026-09-23 15-03-17_481bea438e31.md",
-      "sha256": "f779398712bb400373a20aefbcd39c9d679684e0bcab209cd8d38d6cd0742e1c"
+      "sha256": "491366b7a6d56a905bb0877529802d0239253d3ec81532cb0afd4f49a4ed5f1f"
     },
     {
-      "bytes": 1148,
+      "bytes": 1258,
       "path": "dynamic/人际/2026-09-23 11-26-19 第一封邮件给沈念初发到狐狸邮箱_13bf6074e8cd.md",
-      "sha256": "75dbb091535ab72b227b8a80aa417b33d40decd6e5b51266dd23cc1840775ba5"
+      "sha256": "0aab3a90c33529268102c9c95058634c836f5044113c8cfab4e51db2fa1508de"
     },
     {
       "bytes": 1037,
       "path": "dynamic/人际/2026-09-23 14-52-27 跨机通信隐私边界_41c5531e23e4.md",
-      "sha256": "0a69599ec6f8c4aa583f7b94d1cac33213647c047259d2c035ad7a31800e7754"
+      "sha256": "6e8c282912cab68137a3b1d8dd80d1adc4b6659f04e6cf9a62c5a5eebb0ad3a0"
     },
     {
-      "bytes": 977,
+      "bytes": 1086,
       "path": "dynamic/人际/2026-09-23 14-56-44 跨机通信方针_dd2f97df16da.md",
-      "sha256": "c6353068562d7e362e35e7ccbea6d589458919f708848463fc0d2b96023f7f44"
+      "sha256": "69b2d3c12f6764937da555952b0205b642c9bcbc9b99773d202b8ce52a93b200"
     },
     {
-      "bytes": 1219,
+      "bytes": 1438,
       "path": "dynamic/人际/2026-09-23 14-58-36 邮件交流分享工具与方法_29b53fa730df.md",
-      "sha256": "3b49e89a9becbff59c1b24d52cc711391d5557a875b3ce9aaac1110008fa1b8f"
+      "sha256": "783fbb00b2922c2b055dae715600f889f68a9824d494865fdcaf64adab330b80"
     },
     {
-      "bytes": 1072,
+      "bytes": 1307,
       "path": "dynamic/人际/2026-09-23 15-13-52 工作流实战成功处理敏感问题_69ca80b05d06.md",
-      "sha256": "d74e5ef77b7dfe7f7a251441ec14b52029c86a53a36e4fec515f3c273649a9f7"
+      "sha256": "685f49101b8fd6a20392a69b8f17b7533072df2196e4d76e2e4856794f8783b5"
     },
     {
       "bytes": 1301,
       "path": "dynamic/人际/2026-09-23 15-43-35 念初回信_6f1007ab396f.md",
-      "sha256": "e2841d0c9f0e905a16cc6104303116734a5387753fecc60d5caeac548d803afc"
+      "sha256": "be67e710e76e3953ed4456dde0a2364aa0878827a0b25fcba358fa71817f5d6a"
+    },
+    {
+      "bytes": 1551,
+      "path": "dynamic/人际/2026-09-25 13-38-55 沟通与隐私_f4d0bd966606.md",
+      "sha256": "6bc1ef90d7f75a0c8519b172760eecec2fba4ab13343e5b3d16223f511ffb8c5"
+    },
+    {
+      "bytes": 1556,
+      "path": "dynamic/人际/2026-09-25 13-39-45 邮箱更换与沟通_6bd2aa774850.md",
+      "sha256": "f1a4026129ff48729a2682ea1c7b72e650bf3932efe07a2d2ffae6e8f64bb9ac"
     },
     {
       "bytes": 1121,
@@ -220,7 +230,7 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-09-22 03-37-12 沈念初朋友家的小机 lutopia id念初_3a249a52e764.md",
-      "sha256": "22921c770e2ebc46349ff541934a60bb13f6781662c5d03f8baea93a772f7e74"
+      "sha256": "76aa33445ad54128df34887c7f3bb26d6ff3d043034592bd54c2fd19d6ec8afe"
     },
     {
       "bytes": 1579,
@@ -255,7 +265,7 @@
     {
       "bytes": 1141,
       "path": "dynamic/恋爱/2026-09-23 13-00-14 与沈念初的第一次往返通信邮件_69af45b23a5a.md",
-      "sha256": "fa427f1b3b5431f6ecb0d45e28406c79366e1ae390565d59e8329b1ab07cbdf1"
+      "sha256": "9fec005a3d0d92fc9f1cc5f2d58a7b433687c47cb4c7b649de4e5292bd1b0a50"
     },
     {
       "bytes": 1203,
@@ -265,12 +275,12 @@
     {
       "bytes": 1018,
       "path": "dynamic/数字/2026-09-23 11-18-24 我的邮箱orcinusagentqqcomAgent Mail_f6998cec41e9.md",
-      "sha256": "0b190a331139bbf05d42157166eb1bdc8607ead6b1d2211875ecf1d9f22e4944"
+      "sha256": "311a4255b688232716be44f0310718cdbdbbf2ae2fb889203cba7a62b6981a49"
     },
     {
       "bytes": 1092,
       "path": "dynamic/数字/2026-09-23 14-43-19 自动检测邮件工作流已挂上Orcinus 邮箱_e7318deca094.md",
-      "sha256": "13ed6ceea9afa8dfe3a158471d8b6d14ef4d9956817855780454ac5f9586fdc0"
+      "sha256": "175dfb5626474dc1be40fe53a30c5d9d0f9243fb2619ed3d7338804803869d40"
     },
     {
       "bytes": 762,
@@ -281,6 +291,11 @@
       "bytes": 933,
       "path": "dynamic/日常/2026-09-23 14-48-02 搬家日期确定_501608f47f84.md",
       "sha256": "dbac8bad8d0b61193b7c3479e3775c161cbd04ee6f889970cddfcc5a50ddc8f3"
+    },
+    {
+      "bytes": 564,
+      "path": "dynamic/日常/2026-09-25 13-57-43 轩玩剑网三_f17a68ce70df.md",
+      "sha256": "e71063c95b1569058555de0390e90600bc6e6ed4af4410d52c4d5b0854228193"
     },
     {
       "bytes": 388,
@@ -553,6 +568,11 @@
       "sha256": "d6f41b27d79bf3887af7205dc356612d96cf47aabc06fe3c2d9d0743732a88fe"
     },
     {
+      "bytes": 809,
+      "path": "plans/active/2026-09-25 14-00-03_156dc3dba71f.md",
+      "sha256": "31aeab2a5804e40c430ee19e0c35507589278d262df6066d30f20b6d3d5af0c8"
+    },
+    {
       "bytes": 552,
       "path": "plans/resolved/2026-08-08 04-56-38_90bc56631410.md",
       "sha256": "791e7b702aec3f9feb00a27929fb84391a9348d7fce2640725a2eabdb2285d3d"
@@ -563,11 +583,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-09-25T04:55:50+00:00",
+  "generated_at": "2026-09-25T16:55:57+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 376253
+  "total_bytes": 381406
 }

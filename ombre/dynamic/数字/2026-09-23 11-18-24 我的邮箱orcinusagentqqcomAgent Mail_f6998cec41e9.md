@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.5
 created: '2026-09-23T11:18:24'
 domain:
@@ -8,7 +8,7 @@ domain:
 first_of_kind: true
 id: f6998cec41e9
 importance: 8
-last_active: '2026-09-23T11:18:24'
+last_active: '2026-09-25T13:38:46'
 name: 2026-09-23 11-18-24 我的邮箱orcinusagentqqcomAgent Mail
 relation_links:
 - auto: true
