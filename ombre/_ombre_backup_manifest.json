@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 116,
+  "file_count": 117,
   "files": [
     {
       "bytes": 26740,
@@ -176,6 +176,11 @@
       "bytes": 1556,
       "path": "dynamic/人际/2026-09-25 13-39-45 邮箱更换与沟通_6bd2aa774850.md",
       "sha256": "f1a4026129ff48729a2682ea1c7b72e650bf3932efe07a2d2ffae6e8f64bb9ac"
+    },
+    {
+      "bytes": 957,
+      "path": "dynamic/人际/2026-09-26 04-12-51 Orcinus与沈念初关于工作平台变化的_98859edbc795.md",
+      "sha256": "cac25e8d8139b4096e14265433ec12dcc94b1931956217790d80a30bc91b730f"
     },
     {
       "bytes": 1121,
@@ -583,11 +588,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-09-25T16:55:57+00:00",
+  "generated_at": "2026-09-26T04:56:03+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 381406
+  "total_bytes": 382363
 }
