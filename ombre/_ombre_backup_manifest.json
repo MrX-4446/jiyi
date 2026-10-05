@@ -83,6 +83,11 @@
       "sha256": "499a2f589ba8681ccb99bdfd788dafffbcb22789086cdcb634c41836b246e009"
     },
     {
+      "bytes": 510,
+      "path": "archive/未分类/2026-08-02 18-13-10 喜欢盗墓笔记盲盒角色_e35927a8c636.md",
+      "sha256": "23870dd5a74afe32d6f44499cd2ae41aeb18b3aebb55997ce167d4945e410136"
+    },
+    {
       "bytes": 916,
       "path": "archive/未分类/2026-08-28 15-41-21_cb1eb6af30b0.md",
       "sha256": "a3a8f54a79d4dd2bd55f18bd7e3082721972aa9da0c8d204b8a636ef7168c739"
@@ -326,11 +331,6 @@
       "bytes": 589,
       "path": "dynamic/未分类/2026-08-02 18-11-38 肚子疼了一整天去扎针_e960050395cd.md",
       "sha256": "ad09a69b3ed0001525b24b98713346105b721e7b9cdac53e16acb06aa2bc8dd4"
-    },
-    {
-      "bytes": 509,
-      "path": "dynamic/未分类/2026-08-02 18-13-10 喜欢盗墓笔记盲盒角色_e35927a8c636.md",
-      "sha256": "5c20eb07ba4c72d9701d3d9ebbc0c45e6dea19bfb8c3480d81a4404bd5505421"
     },
     {
       "bytes": 557,
@@ -603,11 +603,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-10-05T04:57:32+00:00",
+  "generated_at": "2026-10-05T16:57:37+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 385965
+  "total_bytes": 385966
 }
