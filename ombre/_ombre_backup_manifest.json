@@ -83,6 +83,11 @@
       "sha256": "499a2f589ba8681ccb99bdfd788dafffbcb22789086cdcb634c41836b246e009"
     },
     {
+      "bytes": 389,
+      "path": "archive/未分类/2026-08-01 14-09-06 首次部署成功_ce426685f84f.md",
+      "sha256": "074c94cff7675fdf9f53f39eb78cfa7cd160f685d844185adfd48435cd48222a"
+    },
+    {
       "bytes": 510,
       "path": "archive/未分类/2026-08-02 18-13-10 喜欢盗墓笔记盲盒角色_e35927a8c636.md",
       "sha256": "23870dd5a74afe32d6f44499cd2ae41aeb18b3aebb55997ce167d4945e410136"
@@ -321,11 +326,6 @@
       "bytes": 564,
       "path": "dynamic/日常/2026-09-25 13-57-43 轩玩剑网三_f17a68ce70df.md",
       "sha256": "e71063c95b1569058555de0390e90600bc6e6ed4af4410d52c4d5b0854228193"
-    },
-    {
-      "bytes": 388,
-      "path": "dynamic/未分类/2026-08-01 14-09-06 首次部署成功_ce426685f84f.md",
-      "sha256": "37300820ae0ec57563595505f43906df33aefb774cf17a07ec146b67d49613c3"
     },
     {
       "bytes": 589,
@@ -603,11 +603,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-10-06T04:57:43+00:00",
+  "generated_at": "2026-10-06T16:57:48+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 385966
+  "total_bytes": 385967
 }
