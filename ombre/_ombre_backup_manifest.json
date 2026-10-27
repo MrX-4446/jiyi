@@ -163,6 +163,11 @@
       "sha256": "4f9462b69c4f218e9594339d96dc46d8d8a944a29851a6950b76dd49e9e0f933"
     },
     {
+      "bytes": 786,
+      "path": "archive/未分类/2026-08-22 02-35-53 轩8月20日情绪记录MCP未完成导致烦躁_07b81e13f938.md",
+      "sha256": "46578a82370fe728be53862071c5914f6247ae9642c78ff8227277f9621a7e05"
+    },
+    {
       "bytes": 916,
       "path": "archive/未分类/2026-08-28 15-41-21_cb1eb6af30b0.md",
       "sha256": "a3a8f54a79d4dd2bd55f18bd7e3082721972aa9da0c8d204b8a636ef7168c739"
@@ -513,11 +518,6 @@
       "sha256": "2248147549b1ec7a9a4ff090e2defba4a542b8bf6318c7de789e9f8592dd100f"
     },
     {
-      "bytes": 785,
-      "path": "dynamic/未分类/2026-08-22 02-35-53 轩8月20日情绪记录MCP未完成导致烦躁_07b81e13f938.md",
-      "sha256": "e43a4cd7ef7055b625229fb29be3bde516ba827484952aef2fa94e448ee5a13b"
-    },
-    {
       "bytes": 1056,
       "path": "dynamic/未分类/2026-08-22 02-37-01 2026-08-22搬家执行日记录_4162896ce958.md",
       "sha256": "61afb6a1776b88e96a0d98e2a673acf9a2c450489c2cf245d646d711ddb37e6c"
@@ -623,11 +623,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-10-27T05:01:11+00:00",
+  "generated_at": "2026-10-27T17:01:16+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 392139
+  "total_bytes": 392140
 }
