@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 128,
+  "file_count": 129,
   "files": [
     {
       "bytes": 26740,
@@ -375,7 +375,7 @@
     {
       "bytes": 1629,
       "path": "dynamic/恋爱/2026-08-22 03-37-43 2026-08-22 工作区文件体系与配置安顿_1cd3445f2119.md",
-      "sha256": "0567128ab049074ad4f1c112db2f9656085079bef8cc073414158904f463c304"
+      "sha256": "e288c1b32f34a3874a227a73165b6c4385d0b7ab46f988b55bc2099ca55f9bed"
     },
     {
       "bytes": 1177,
@@ -436,6 +436,11 @@
       "bytes": 1300,
       "path": "dynamic/数字/2026-09-30 13-31-59 WakeTrace 醒来策略升级_7e54e90ed504.md",
       "sha256": "55fe75fe13089a692a65b36c2186457b4c47250fc521d4cdcc654316af37fe4b"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/数字/2026-11-01 13-52-53 2026-11-01 卡点解除云端OmbreBrain有导出全部记忆的选项_3f399bf9fb77.md",
+      "sha256": "17d9b002e8c0eb2fede9f757d3af90fcca3b0113e443ebaa9288b3d1185f8b41"
     },
     {
       "bytes": 762,
@@ -643,11 +648,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-01T05:02:01+00:00",
+  "generated_at": "2026-11-01T17:02:06+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 397824
+  "total_bytes": 398774
 }
