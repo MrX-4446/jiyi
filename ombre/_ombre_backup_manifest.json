@@ -88,6 +88,11 @@
       "sha256": "9dab171ff680cfdcf36d952cea3123d90f9534cb8ebe91ac47b8b018b0af57ee"
     },
     {
+      "bytes": 1178,
+      "path": "archive/恋爱/2026-08-24 14-51-56 深度谈话存档机制_9ad6c0ada043.md",
+      "sha256": "1fa565b73c20adff45a28ccfaf8e8f133680c5f1105a22957b105fee2484d032"
+    },
+    {
       "bytes": 1192,
       "path": "archive/恋爱/2026-08-28 15-36-05_5e98241c6a99.md",
       "sha256": "499a2f589ba8681ccb99bdfd788dafffbcb22789086cdcb634c41836b246e009"
@@ -393,11 +398,6 @@
       "sha256": "e288c1b32f34a3874a227a73165b6c4385d0b7ab46f988b55bc2099ca55f9bed"
     },
     {
-      "bytes": 1177,
-      "path": "dynamic/恋爱/2026-08-24 14-51-56 深度谈话存档机制_9ad6c0ada043.md",
-      "sha256": "81f0aee8d582669782578db09febe92ef40af7e02a9a64e4c0487569ee28de57"
-    },
-    {
       "bytes": 768,
       "path": "dynamic/恋爱/2026-09-20 14-21-02 那件事的账2026-09-20 晚加码_2a398c4ee00f.md",
       "sha256": "b2159b3878fa7dce5147a00b33f9de7e4cc6cb5df37e2cf1463e577011999ed2"
@@ -658,11 +658,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-09T05:03:33+00:00",
+  "generated_at": "2026-11-09T17:03:39+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 400836
+  "total_bytes": 400837
 }
