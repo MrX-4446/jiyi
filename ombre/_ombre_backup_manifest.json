@@ -238,6 +238,11 @@
       "sha256": "b47ce3b66e7fa3bf722eb8d54aff5a8ecab639dfabc4c2330357b132b5035e2d"
     },
     {
+      "bytes": 891,
+      "path": "archive/财务/2026-09-18 03-27-34 小金库投资计划_1f044b5802ea.md",
+      "sha256": "f70265e3668e4179b2962fc1041946ea00517a7e309e8c7529a8a3ae3be711b2"
+    },
+    {
       "bytes": 436,
       "path": "dynamic/self/2026-08-05 16-21-17_2f039176126e.md",
       "sha256": "7e1518165eb8300f9d120ebc59361c3581b9178c6cd5934191420ff1f785eb92"
@@ -598,11 +603,6 @@
       "sha256": "06aaf668ffb0c8af47c6fd224f7ef36285fd5cd132da761d5a9582b498cb5966"
     },
     {
-      "bytes": 890,
-      "path": "dynamic/财务/2026-09-18 03-27-34 小金库投资计划_1f044b5802ea.md",
-      "sha256": "16e63a1df3e7bb6cfe60a65782939e5060cdf3328009a86c9218b73c720adc70"
-    },
-    {
       "bytes": 1341,
       "path": "dynamic/身心/2026-11-15 18-27-07 11-15 深夜轩情绪低落厌恶自己肥宅_f301718cca2a.md",
       "sha256": "186e2319cf4e68c2d2017f20ccfd0a82f9d7a5c832df4f84ca70142e3465d7fe"
@@ -683,11 +683,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-18T05:05:15+00:00",
+  "generated_at": "2026-11-18T17:05:20+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 412179
+  "total_bytes": 412180
 }
