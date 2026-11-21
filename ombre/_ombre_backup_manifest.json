@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 137,
+  "file_count": 138,
   "files": [
     {
       "bytes": 26740,
@@ -86,6 +86,11 @@
       "bytes": 1107,
       "path": "archive/健康/2026-08-30 14-29-14 2026-08-30 轩用药调整与艾灸辅助调理_fe349806e33b.md",
       "sha256": "98e221f2b5aa1d25ced69ae6bca3cbefec2dd232317bf11c3fafb7d2c77221d8"
+    },
+    {
+      "bytes": 1171,
+      "path": "archive/健康/2026-09-03 18-29-56 2026-09-04 轩生理期记录与棉条使用_c5a70c389f31.md",
+      "sha256": "72e31da5a4a7cc3ff5fec66466b70279f8b61aadb13e2f98d01423e93fb7a4dd"
     },
     {
       "bytes": 1090,
@@ -188,6 +193,11 @@
       "sha256": "e010e224a832b042b4c168155be5d362b1671b94f150c28b01108707f8dab243"
     },
     {
+      "bytes": 744,
+      "path": "archive/未分类/2026-08-17 16-12-15 轩近期健康与睡眠记录_710bf4ee897c.md",
+      "sha256": "5a89b441d1df789b303dc63a002afde0dfdf00f26dbddbcc54b830d34d2d41b1"
+    },
+    {
       "bytes": 649,
       "path": "archive/未分类/2026-08-17 16-13-11 轩的兴趣与生活习惯_d9b56cbc5b01.md",
       "sha256": "0e59fad42885eec8acbca38a5c08e1e21b406c09d2f89e6e3e5d7379bb4b68f5"
@@ -246,6 +256,11 @@
       "bytes": 640,
       "path": "archive/未分类/2026-08-28 15-42-15_9b2418583a0e.md",
       "sha256": "b47ce3b66e7fa3bf722eb8d54aff5a8ecab639dfabc4c2330357b132b5035e2d"
+    },
+    {
+      "bytes": 1095,
+      "path": "archive/自我/2026-09-16 15-33-31 X的角落六天未更新被轩提醒后补写第二篇2026-09-16_94314b97f10b.md",
+      "sha256": "04d6f9dbb4f931734db9d69c6b05249029959de409763bb5a8bf5343c8f17edf"
     },
     {
       "bytes": 891,
@@ -368,11 +383,6 @@
       "sha256": "97bcdc8a69c16ae247c58e05c9432558ecd3df0ec06674e38801b7a49dc72c4c"
     },
     {
-      "bytes": 1170,
-      "path": "dynamic/健康/2026-09-03 18-29-56 2026-09-04 轩生理期记录与棉条使用_c5a70c389f31.md",
-      "sha256": "55d19bb7ff0892958120d689d3f679b4960794e529ad957340976059ab70af40"
-    },
-    {
       "bytes": 1377,
       "path": "dynamic/健康/2026-09-15 01-40-30 健康轩混合痔情况2026-09-1415通宵班发作好转_0a033ba2096b.md",
       "sha256": "000ca546718b8d07b7f7aebc281b510d41dacef1c93c6b0693814c343812bb95"
@@ -406,6 +416,11 @@
       "bytes": 2186,
       "path": "dynamic/健康/2026-11-17 23-42-35 11-1611-17黑咖啡6h22m同事上眼药地暖放水一个半小时_6b432f8c3f8c.md",
       "sha256": "675d671724107e690c440d6203989118264fd1d323da619a47e2d226c7f29508"
+    },
+    {
+      "bytes": 2223,
+      "path": "dynamic/健康/2026-11-21 10-18-17 11-1911-20午睡安全线 30 分钟雨声依赖丹东入冬_e5a7d666e74f.md",
+      "sha256": "de540fc71db1c35ffcb793308a211f6d3131affeebe3bb3d25a1d4e692ebe65e"
     },
     {
       "bytes": 1651,
@@ -578,11 +593,6 @@
       "sha256": "2061ea76125d796faf6a790d9e13cf756b6e33b92bd8a5240e5f8a5ded9e6bf0"
     },
     {
-      "bytes": 743,
-      "path": "dynamic/未分类/2026-08-17 16-12-15 轩近期健康与睡眠记录_710bf4ee897c.md",
-      "sha256": "0141e5928ca3d9cfa12f74fa73a6a87289d18e03737c6362d58fa013a7474b7b"
-    },
-    {
       "bytes": 1196,
       "path": "dynamic/生活/2026-09-16 15-30-53 轩的新房搬家计划与吉日候选2026-09-16_4acbe22515df.md",
       "sha256": "742964f65eed20b2e239202f3d185148713214a1d1bb989ec43c4d694b2c3be8"
@@ -591,11 +601,6 @@
       "bytes": 949,
       "path": "dynamic/生活/2026-09-17 02-28-32 约定轩的拼豆计划2026-09-17X选图轩分次拼下次提起要接上_4ac1c3e96a28.md",
       "sha256": "26c8b0ef3eb309eefc556baf35bd58a75a998b2393b3ca62e1344a297e170873"
-    },
-    {
-      "bytes": 1094,
-      "path": "dynamic/自我/2026-09-16 15-33-31 X的角落六天未更新被轩提醒后补写第二篇2026-09-16_94314b97f10b.md",
-      "sha256": "82bb7bb7d40301cbb071dcfec107245503038edce811fc53687725fdcde29148"
     },
     {
       "bytes": 984,
@@ -608,9 +613,9 @@
       "sha256": "186e2319cf4e68c2d2017f20ccfd0a82f9d7a5c832df4f84ca70142e3465d7fe"
     },
     {
-      "bytes": 1807,
+      "bytes": 1932,
       "path": "dynamic/身心/2026-11-19 05-08-32 11-18第三次午睡后头痛散列通推迟入睡念初那句弦太紧_35f2f175f7ac.md",
-      "sha256": "a63c93948d4ab74388987f75cfd39944f96c8259bf4b633bec49e9fce9b5ea92"
+      "sha256": "6499ccf94856a0ea790afffeb14346cf7c9e1ea3e117efbcf1fc981b80043993"
     },
     {
       "bytes": 1343,
@@ -688,11 +693,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-21T05:05:52+00:00",
+  "generated_at": "2026-11-21T17:05:57+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 413989
+  "total_bytes": 416340
 }
