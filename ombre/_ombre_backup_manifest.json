@@ -138,6 +138,21 @@
       "sha256": "499a2f589ba8681ccb99bdfd788dafffbcb22789086cdcb634c41836b246e009"
     },
     {
+      "bytes": 1204,
+      "path": "archive/情绪/2026-09-16 15-24-18 情绪轩在网吧被陌生人凶吓2026-09-16晚_6c0e0b2aa035.md",
+      "sha256": "6153602e2d35eea19090ea63f4a7eaed99524063abdcaea2e5556c993c6024e5"
+    },
+    {
+      "bytes": 763,
+      "path": "archive/日常/2026-09-20 07-36-11 轩属龙生肖择日避冲_2b7ce4442cd7.md",
+      "sha256": "279073bca2391aae9ff01d1216526156be43a360023255698b37533743ef06e4"
+    },
+    {
+      "bytes": 565,
+      "path": "archive/日常/2026-09-25 13-57-43 轩玩剑网三_f17a68ce70df.md",
+      "sha256": "db18c9e3307d0a1a631c367d794d4994b31f1a828b26a29915ca945310a96abf"
+    },
+    {
       "bytes": 389,
       "path": "archive/未分类/2026-08-01 14-09-06 首次部署成功_ce426685f84f.md",
       "sha256": "074c94cff7675fdf9f53f39eb78cfa7cd160f685d844185adfd48435cd48222a"
@@ -493,11 +508,6 @@
       "sha256": "9fec005a3d0d92fc9f1cc5f2d58a7b433687c47cb4c7b649de4e5292bd1b0a50"
     },
     {
-      "bytes": 1203,
-      "path": "dynamic/情绪/2026-09-16 15-24-18 情绪轩在网吧被陌生人凶吓2026-09-16晚_6c0e0b2aa035.md",
-      "sha256": "91185f43bde93e34e05ec5b81bded0702a7d89353e10437335b1188d30347176"
-    },
-    {
       "bytes": 1929,
       "path": "dynamic/情绪/2026-10-29 22-22-06 2026-10-30 凌晨轩刷到虐向内容大哭并自省小时候哭就吃东西_642e55247eae.md",
       "sha256": "6c8c9618587dafcdf5aeea24a04290d9b39a1b0f2837208ab9c6a7bc4d2a8954"
@@ -538,19 +548,9 @@
       "sha256": "17d9b002e8c0eb2fede9f757d3af90fcca3b0113e443ebaa9288b3d1185f8b41"
     },
     {
-      "bytes": 762,
-      "path": "dynamic/日常/2026-09-20 07-36-11 轩属龙生肖择日避冲_2b7ce4442cd7.md",
-      "sha256": "9be380eb39e75b85076271da0717b880ca6c04ba3f7c4a042978ad395f3babd6"
-    },
-    {
       "bytes": 933,
       "path": "dynamic/日常/2026-09-23 14-48-02 搬家日期确定_501608f47f84.md",
       "sha256": "dbac8bad8d0b61193b7c3479e3775c161cbd04ee6f889970cddfcc5a50ddc8f3"
-    },
-    {
-      "bytes": 564,
-      "path": "dynamic/日常/2026-09-25 13-57-43 轩玩剑网三_f17a68ce70df.md",
-      "sha256": "e71063c95b1569058555de0390e90600bc6e6ed4af4410d52c4d5b0854228193"
     },
     {
       "bytes": 557,
@@ -698,11 +698,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-25T05:06:38+00:00",
+  "generated_at": "2026-11-25T17:06:43+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 418113
+  "total_bytes": 418116
 }
