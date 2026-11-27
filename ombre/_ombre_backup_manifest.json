@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 139,
+  "file_count": 140,
   "files": [
     {
       "bytes": 26740,
@@ -76,6 +76,26 @@
       "bytes": 556,
       "path": "archive/self/2026-09-22 04-36-53_258f9ad86aa1.md",
       "sha256": "d89f570b779756a6fc6041e35f1862fa2dac48c40e86e0d0c12dd7a0e71dc7e0"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/self/2026-09-23 15-03-17_481bea438e31.md",
+      "sha256": "a9a838c29391747052a2dbfd2d634d57c014e41d87d59eeb659363f86b975196"
+    },
+    {
+      "bytes": 1439,
+      "path": "archive/人际/2026-09-23 14-58-36 邮件交流分享工具与方法_29b53fa730df.md",
+      "sha256": "bb38b616feecb139644dfc6fef2d06be1229738383dfb73521bc95bfddbb9893"
+    },
+    {
+      "bytes": 1552,
+      "path": "archive/人际/2026-09-25 13-38-55 沟通与隐私_f4d0bd966606.md",
+      "sha256": "f65b24a3538e790eced20ac4bbb968eca41bbb4fcef7de5aa51ad0f055c523c2"
+    },
+    {
+      "bytes": 1557,
+      "path": "archive/人际/2026-09-25 13-39-45 邮箱更换与沟通_6bd2aa774850.md",
+      "sha256": "845a6589a461e60299c7acaa3b096334fce5e17744fc0c6c0228ea1e36074aa8"
     },
     {
       "bytes": 1162,
@@ -166,6 +186,11 @@
       "bytes": 510,
       "path": "archive/未分类/2026-08-02 18-13-10 喜欢盗墓笔记盲盒角色_e35927a8c636.md",
       "sha256": "23870dd5a74afe32d6f44499cd2ae41aeb18b3aebb55997ce167d4945e410136"
+    },
+    {
+      "bytes": 424,
+      "path": "archive/未分类/2026-08-07 14-13-25 轩可以跟我聊任何话题_5af0bd80b759.md",
+      "sha256": "97311986a1d0dd37ee956bca8b6226d518057a8292ea3f1f0c8e973517ee4770"
     },
     {
       "bytes": 494,
@@ -353,11 +378,6 @@
       "sha256": "47cac046a3be250e6c71878cdfa3c353c21b9f77f4931ac66a78b585972d3038"
     },
     {
-      "bytes": 750,
-      "path": "dynamic/self/2026-09-23 15-03-17_481bea438e31.md",
-      "sha256": "491366b7a6d56a905bb0877529802d0239253d3ec81532cb0afd4f49a4ed5f1f"
-    },
-    {
       "bytes": 1258,
       "path": "dynamic/人际/2026-09-23 11-26-19 第一封邮件给沈念初发到狐狸邮箱_13bf6074e8cd.md",
       "sha256": "0aab3a90c33529268102c9c95058634c836f5044113c8cfab4e51db2fa1508de"
@@ -373,11 +393,6 @@
       "sha256": "69b2d3c12f6764937da555952b0205b642c9bcbc9b99773d202b8ce52a93b200"
     },
     {
-      "bytes": 1438,
-      "path": "dynamic/人际/2026-09-23 14-58-36 邮件交流分享工具与方法_29b53fa730df.md",
-      "sha256": "783fbb00b2922c2b055dae715600f889f68a9824d494865fdcaf64adab330b80"
-    },
-    {
       "bytes": 1307,
       "path": "dynamic/人际/2026-09-23 15-13-52 工作流实战成功处理敏感问题_69ca80b05d06.md",
       "sha256": "685f49101b8fd6a20392a69b8f17b7533072df2196e4d76e2e4856794f8783b5"
@@ -386,16 +401,6 @@
       "bytes": 1411,
       "path": "dynamic/人际/2026-09-23 15-43-35 念初回信_6f1007ab396f.md",
       "sha256": "5e409b57803efd19c97bb7b4a88bade1e29e22c4b56aa64bc53b3df5defbf1ad"
-    },
-    {
-      "bytes": 1551,
-      "path": "dynamic/人际/2026-09-25 13-38-55 沟通与隐私_f4d0bd966606.md",
-      "sha256": "6bc1ef90d7f75a0c8519b172760eecec2fba4ab13343e5b3d16223f511ffb8c5"
-    },
-    {
-      "bytes": 1556,
-      "path": "dynamic/人际/2026-09-25 13-39-45 邮箱更换与沟通_6bd2aa774850.md",
-      "sha256": "f1a4026129ff48729a2682ea1c7b72e650bf3932efe07a2d2ffae6e8f64bb9ac"
     },
     {
       "bytes": 957,
@@ -448,9 +453,9 @@
       "sha256": "d841b19320e658d92ee3d8af30f630e5020f79346da93661f9046badc190141e"
     },
     {
-      "bytes": 2296,
+      "bytes": 2406,
       "path": "dynamic/健康/2026-11-17 23-42-35 11-1611-17黑咖啡6h22m同事上眼药地暖放水一个半小时_6b432f8c3f8c.md",
-      "sha256": "f3be43a97fbcfe04a05caf72a76a3f819ce93c478bfe966a56340a1b267aae7c"
+      "sha256": "7ec367dfb5f66ee96480eee5edbda6d5649f013a01f9859630611a36cd9427b2"
     },
     {
       "bytes": 2223,
@@ -568,11 +573,6 @@
       "sha256": "ca664395921ed673a87453f30c61cb528cf065214139f9c19fa72e0eaa123237"
     },
     {
-      "bytes": 423,
-      "path": "dynamic/未分类/2026-08-07 14-13-25 轩可以跟我聊任何话题_5af0bd80b759.md",
-      "sha256": "81cc6b40bd773c64529ea519a9537a37b392e530302feb27498928f4243aca8c"
-    },
-    {
       "bytes": 638,
       "path": "dynamic/未分类/2026-08-07 14-13-28 轩可以跟我聊任何话题_05ba2532d9c7.md",
       "sha256": "28248beef27be0aa12011d90174fd90c71a2189e1ab1dc1a32a189e6c39ce425"
@@ -613,14 +613,19 @@
       "sha256": "186e2319cf4e68c2d2017f20ccfd0a82f9d7a5c832df4f84ca70142e3465d7fe"
     },
     {
-      "bytes": 1932,
+      "bytes": 2042,
       "path": "dynamic/身心/2026-11-19 05-08-32 11-18第三次午睡后头痛散列通推迟入睡念初那句弦太紧_35f2f175f7ac.md",
-      "sha256": "6499ccf94856a0ea790afffeb14346cf7c9e1ea3e117efbcf1fc981b80043993"
+      "sha256": "4e5e75431079598d6cbccfd6fa62e0f13e151081630309a28ef30ef278c5ac61"
     },
     {
       "bytes": 1546,
       "path": "dynamic/身心/2026-11-22 22-40-26 11-22九小时长觉晚餐只有水果健康待跟进重盘_7e19e0d000ff.md",
       "sha256": "0600148256a15f77287692d4d8b161f3e8828f587a9a89040f55b32122f77399"
+    },
+    {
+      "bytes": 1879,
+      "path": "dynamic/身心/2026-11-27 14-52-11 11-2311-27连续四天六小时散列通规律0000空话事件_19a4f645f175.md",
+      "sha256": "e611a8acc2d803e49ec805a5ebd98981d9c4e801f010b9a7104d078f81edcf99"
     },
     {
       "bytes": 1343,
@@ -698,11 +703,11 @@
       "sha256": "360cfffbe7b6b4365485d5c1d459f815f1366c3155db34fd70fc834ac77e7298"
     }
   ],
-  "generated_at": "2026-11-27T05:07:04+00:00",
+  "generated_at": "2026-11-27T17:07:10+00:00",
   "path_prefix": "ombre",
   "repo": "MrX-4446/jiyi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 418116
+  "total_bytes": 420220
 }
